@@ -1,6 +1,7 @@
 .DS_Store
 .dart_tool/
 
+.idea/
 .packages
 .pub/
 pubspec.lock
@@ -12,3 +13,6 @@ flutter_export_environment.sh
 example/.flutter-plugins-dependencies
 example/ios/Flutter/Flutter.podspec
 example/lib/generated_plugin_registrant.dart
+android/gradlew
+android/gradlew.bat
+
